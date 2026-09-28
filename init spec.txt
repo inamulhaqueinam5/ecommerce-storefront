@@ -1,0 +1,16 @@
+Website assignment | Build a ZENJI storefront
+Create a small, working website for ZENJI so we can assess your design and development quality. This is a hiring assessment demo.
+
+Timeline: You have 3 days (72 hours) from receiving the assignment email to complete the website and submit this form with your live demo, source code and build notes.
+
+Brief: Build a responsive one-page storefront inspired by ZENJI’s anime and streetwear identity. Review https://zenji.shop/ and https://www.instagram.com/zenji_.shop/, then create your own layout.
+
+Include:
+• A branded header, hero section and clear “Shop” call to action.
+• At least 4 sample product cards with images, names, prices and size selection.
+• A working demo cart: add/remove items, update quantities and calculate the subtotal.
+• A polished mobile and desktop layout, readable text and keyboard-friendly controls.
+
+Use any stack, mock product data and imagery you have permission to use. No real payments, accounts or backend are required. Aim to spend around 3–4 hours; note any unfinished features.
+
+Submit a live demo, viewable source code and brief build notes below. We will review brand fit, visual quality, mobile usability, functionality and code clarity.
